@@ -1,0 +1,6 @@
+{
+  "name": "TrustLens",
+  "description": "Screen-aware AI assistant for real-time claim extraction, rumor mutation tracking, and evidence-grounded verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
